@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredericobimachine
-- 💞️ I’m collaborating on Sol7's/BIMachine
+- 💞️ I’m collaborating on BIMachine
 - 📫 How to reach me frederico@bimachine.com.br
 
 <!---
